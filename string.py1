@@ -1,0 +1,7 @@
+import string
+ch='g'
+print('a'<=ch<='z')
+
+str1='hello'
+print(dir(str1))
+
